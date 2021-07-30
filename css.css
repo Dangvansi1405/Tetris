@@ -1,0 +1,35 @@
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin: auto;
+    display: block;
+    width: 400px;
+}
+
+#tetris {
+    color: red;
+    text-align: center;
+}
+
+#abc {
+    background-image: url("rose_flower_red_191529_2560x1080.jpg");
+    height: 1080px;
+    width: 1920px;
+}
+
+button {
+    color: red;
+    background-color: black;
+    margin-left: 800px;
+    margin-right: 800px;
+    height: 50px;
+    width: 100px;
+
+}
+
+#scoreBox {
+    color: red;
+    text-align: center;
+    font-size: x-large;
+}
+
